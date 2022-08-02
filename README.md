@@ -1,2 +1,2 @@
 # SistemiOperativi2
-Esercizi e homework del corso Sistemi Operativi A.A.2022
+Homework del corso Sistemi Operativi A.A.2022
