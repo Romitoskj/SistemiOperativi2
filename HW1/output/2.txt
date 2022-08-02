@@ -1,0 +1,4 @@
+#1,	test/2.txt:	"A"
+#1,	test/4.txt:	"A"
+#3,	test/2.txt:	"C"
+#3,	test/4.txt:	"C"

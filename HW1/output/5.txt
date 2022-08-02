@@ -1,0 +1,1 @@
+test/empty.txt e test/empty.txt sono uguali
